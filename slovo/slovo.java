@@ -8,7 +8,7 @@ public class slovo {
 		
 		String word;
 		Scanner inputDevice = new Scanner(System.in);
-		System.out.print("Введіть слово: ");
+		System.out.print("Введіть слово java: ");
 		word = inputDevice.next();
 		char j = word.charAt(0);
 		char a = word.charAt(1);
